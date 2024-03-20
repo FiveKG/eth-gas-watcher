@@ -10,9 +10,9 @@
   "author": "",
   "repository": {
     "type": "git",
-    "url": "https://github.com/FiveKG/gas-listener"
+    "url": "https://github.com/FiveKG/eth-gas-watcher"
   },
-  "homepage": "https://github.com/FiveKG/gas-listener",
+  "homepage": "https://github.com/FiveKG/eth-gas-watcher",
   "license": "ISC",
   "dependencies": {
     "axios": "^1.6.2",
